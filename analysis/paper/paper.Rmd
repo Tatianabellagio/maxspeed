@@ -68,8 +68,7 @@ This is a replication of figure 2A from @hirt2017 (Fig. \@ref(fig:fig2a))
 <!-- Here's some example analysis code: -->
 
 ```{r load}
-#library('maxspeed')
-source("~/Documents/soft_e_forbio/maxspeed/R/speed_model.R")
+library('maxspeed')
 library('dplyr')
 library('ggplot2')
 maxspeed <- readRDS("../data/derived_data/maxspeed.RDS")

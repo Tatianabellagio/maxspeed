@@ -1,16 +1,16 @@
 ---
-title: "Title Goes Here"
+title: "Spees vs mass"
 author:
   - Myfirstname Mylastname:
-      email: fl@oneplace.edu
-      institute: [UofO]
+      email: tbellg@stanford.edu
+      institute: Stanford
       correspondence: true
   - Yourfirstname Yourlastname:
       email: fl@another.edu
       institute: [UofA]
       correspondence: false
 institute:
-  - UofO: University of One Place
+  - UofO: University of Stanford
   - UofA: University of Another Place
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: 
@@ -57,9 +57,7 @@ knitr::opts_chunk$set(
 
 # Introduction
 
-(Fig. \@ref(fig:fig2a))
-
-This is a replication of figure 2A from @hirt2017
+This is a replication of figure 2A from @hirt2017 (Fig. \@ref(fig:fig2a))
 
 # Background
 

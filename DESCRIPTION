@@ -1,9 +1,9 @@
 Package: maxspeed
-Title: What the Package Does (One Line, Title Case)
+Title: speed vs body mass
 Version: 0.0.0.9000
 Authors@R:
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+    person("Tatiana", "Bellagio", , "first.last@example.com", role = c("aut", "cre"))
+Description: This package uses a model from physical first principles for explaining the trends in speed vs body mass
 License: MIT + file LICENSE
 ByteCompile: true
 Encoding: UTF-8
